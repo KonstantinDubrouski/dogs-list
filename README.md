@@ -4,6 +4,12 @@ A Flutter showcase application that lists dog breeds, lets you browse images, an
 
 ---
 
+## 🖥️ Demo
+
+
+https://github.com/user-attachments/assets/7e6b0418-dcba-4788-8b7e-adcf23f12ac4
+
+
 ## ✨ Features
 
 | Screen | Description |
