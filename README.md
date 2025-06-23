@@ -76,7 +76,6 @@ Each feature follows Clean Architecture layers:
 * [Dog CEO API](https://dog.ceo/dog-api/) – free dog images & breed list
 * `flutter_bloc` – state management
 * `dio` – networking
-* `equatable` – value equality
 
 ---
 
